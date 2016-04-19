@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">projectF</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main_activity2">ADD TASK</string>
+    <string name="title_activity_main_activity22">TASK DETAILS</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_on_click__notification_">OnClick_Notification_Activity</string>
+</resources>
